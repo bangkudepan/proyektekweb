@@ -1,0 +1,38 @@
+#footer-widgets {
+    padding: 20px 0;
+}
+#footer-widgets, #footer-copyright {
+    min-height: 40px;
+    background-color: #000;
+}
+.widget-heading {
+    padding: 10px 0;
+    margin: 0;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.2em;
+    color: #fff;
+}
+.widget-content {
+    padding: 15px 0;
+}
+#footer-newsletter a:link, #footer-newsletter a:visited, #footer-widgets a:link, #footer-widgets a:visited {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 300;
+}
+#footer-partners {
+    min-height: 82px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #282d3c;
+}
+#footer-copyright p {
+    margin: 0;
+    line-height: 40px;
+    font-weight: 400;
+    font-size: 12px;
+    color: #fff;
+    /* color: #898989; */
+    text-align: center;
+}
